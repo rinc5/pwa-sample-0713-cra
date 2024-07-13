@@ -1,6 +1,7 @@
 {
   "name": "PWA TODO",
   "short_name": "TODO",
+  "homepage": "https://rinc5.github.io/pwa-sample-0713/",
   "icons": [
       {
           "src": "icon-192x192.png",

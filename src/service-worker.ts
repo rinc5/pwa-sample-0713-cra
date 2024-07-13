@@ -78,3 +78,8 @@ self.addEventListener('message', (event) => {
 });
 
 // Any other custom service worker logic can go here.
+// プッシュ通知
+self.addEventListener('push', (event) => {
+  // ...
+  // バックエンド側も処理の追加が必要
+})
